@@ -1,1 +1,1 @@
-[Warrior Cat](https://octodex.github.com/images/yaktocat.png)
+[WarriorCat](https://octodex.github.com/images/yaktocat.png)
